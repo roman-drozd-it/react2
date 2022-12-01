@@ -8,3 +8,5 @@ function abc(name: string): string {
                 let x = abc('romek')
 
 console.log('Romek')
+
+// commit2
