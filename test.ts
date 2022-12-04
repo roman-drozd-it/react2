@@ -1,12 +1,7 @@
-function abc(name: string): string {
+import cde from './test2'
 
-    return name;
-    console.log("fgddg");
-}
+var x  = cde('HELLO =======');
 
-
-                let x = abc('romek')
-
-console.log('Romek')
+console.log(`${x} abc`)
 
 // commit2

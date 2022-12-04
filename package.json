@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "react-hw",
   "version": "1.0.0",
   "description": "to jest test",
   "main": "test.js",
@@ -7,5 +7,11 @@
   "license": "MIT",
   "scripts": {
     "start": "tsc test.ts && node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0"
   }
 }
